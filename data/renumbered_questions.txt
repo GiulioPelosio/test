@@ -1,0 +1,411 @@
+Question 1: ¿Cuáles de las siguientes hormonas son sintetizadas por las glándulas tiroideas?
+A. Glucocorticoides
+B. Hormona paratiroidea
+C. T3 y T4
+D. Somatostatina
+Correct answer: C. T3 y T4
+
+Question 2: ¿Cuáles de las siguientes funciones son representativas del tejido epitelial?
+A. Protección
+B. Excreción
+C. Todas las respuestas son correctas
+D. Absorción
+Correct answer: C. Todas las respuestas son correctas
+
+Question 3: ¿Qué definición le damos a la muerte celular programada?
+A. Necrosis
+B. Gangrena
+C. Apoptosis
+D. Todas son correctas.
+Correct answer: C. Apoptosis
+
+Question 4: ¿Qué orgánulo es la fuente de energía de la célula?
+A. Mitocondrias
+B. Lisosomas
+C. Aparato de Golgi
+D. Reticulo Endoplasmático Rugoso
+Correct answer: A. Mitocondrias
+
+Question 5: ¿Cómo se denomina el mecanismo mediante el cual las neuronas transmiten el impulso nervioso?
+A. Sinapsis
+B. Isodendritas
+C. Transmisión del impulso nervioso
+D. Colinérgicas
+Correct answer: A. Sinapsis
+
+Question 6: ¿Qué tipo de alteración se produce en la Imagen 1?
+A. Trombo
+B. Émbolo
+C. Placa de ateroma
+D. Inflamación
+Correct answer: A. Trombo
+
+Question 7: ¿Qué tipo de alteración se produce en la Imagen 2?
+A. Trombo
+B. Émbolo
+C. Placa de ateroma
+D. Inflamación
+Correct answer: B. Émbolo
+
+Question 8: ¿Cómo se denomina la válvula del aparato digestivo que separa el esófago del estómago?
+A. Píloro
+B. Epiglotis
+C. Cardias
+D. Válvula ileocecal
+Correct answer: C. Cardias
+
+Question 9: Indica cuál de las siguientes afirmaciones es incorrecta:
+A. El Sistema Nervioso Autónomo (SNA) o Vegetativo se encarga de las acciones involuntarias del organismo
+B. El Sistema Nervioso Simpático (SNS) se encarga de preparar al cuerpo para una respuesta ante una situación de estrés
+C. El Sistema Nervioso Parasimpático (SNPS) se encarga del control rutinario e inconsciente de las funciones internas del organismo
+D. El Sistema Nervioso Somático se encarga de las funciones involuntarias
+Correct answer: D. El Sistema Nervioso Somático se encarga de las funciones involuntarias
+
+Question 10: La Diabetes mellitus tipo 1 se caracteriza por...
+A. Producirse un defecto progresivo en la secreción de insulina.
+B. Darse en personas adultas.
+C. No ser insulino-dependientes.
+D. Producirse una destrucción total de las células beta de los islotes de Langerhans del páncreas.
+Correct answer: D. Producirse una destrucción total de las células beta de los islotes de Langerhans del páncreas.
+
+Question 11: ¿Qué tipo de células son diploides en el organismo humano?
+A. Las células somáticas
+B. Todas las células del organismo son haploides.
+C. Todas las células del organismo son diploides.
+D. Las células gaméticas.
+Correct answer: A. Las células somáticas
+
+Question 12: La insulina es una hormona que interviene en el metabolismo de la glucosa y...
+A. Promueve la transformación de glucosa en glucógeno por el hígado.
+B. Segregada por las células Alpha del páncreas.
+C. Se libera cuando los niveles de glucosa en sangre son bajos.
+D. Es hiperglucemiante.
+Correct answer: A. Promueve la transformación de glucosa en glucógeno por el hígado.
+
+Question 13: ¿Qué proteína es la principal responsable de la fibrinólisis?
+A. Fibrinógeno.
+B. Plasmina.
+C. Tromboplastina.
+D. Trombina.
+Correct answer: B. Plasmina
+
+Question 14: ¿Qué órgano de los sentidos es el encargado del equilibrio?
+A. El tacto.
+B. El oído.
+C. La vista.
+D. El olfato.
+Correct answer: B. El oído.
+
+Question 15: ¿Qué definición le damos a la muerte celular programada?
+A. Necrosis
+B. Apoptosis
+C. Todas son correctas.
+D. Gangrena
+Correct answer: B. Apoptosis
+
+Question 16: ¿Cuál de los siguientes músculos son de contracción voluntaria?
+A. Músculo liso
+B. Músculo esquelético
+C. Todas las opciones anteriores
+D. Músculo cardíaco
+Correct answer: B. Músculo esquelético
+
+Question 17: Las arterias son...
+A. Los vasos sanguíneos que salen del corazón.
+B. No tienen músculo en su pared.
+C. Los vasos sanguíneos que entran al corazón.
+D. En su interior hay un sistema de válvulas.
+Correct answer: A. Los vasos sanguíneos que salen del corazón.
+
+Question 18: La recuperación completa de la estructura y función de órganos o partes del cuerpo dañadas sin producir alteraciones estructurales se le denomina...
+A. Regeneración
+B. Recuperación
+C. Reparación
+D. Reestructuración
+Correct answer: A. Regeneración
+
+Question 19: Cuáles de los siguientes enunciados son ciertos con respecto a las lipoproteínas de baja densidad o LDL:
+A. Son las denominadas colesterol malo.
+B. Posee un alto contenido en colesterol y ésteres.
+C. Todas son correctas
+D. Pueden llegar a formar placas de ateroma.
+Correct answer: C. Todas son correctas
+
+Question 20: ¿Qué dotación cromosómica poseen los gametos o células gaméticas (óvulos y espermatozoides)?
+A. 23 cromosomas
+B. 46 cromosomas
+C. 23 pares de cromosomas
+D. 46 cromosomas
+Correct answer: A. 23 cromosomas
+
+Question 21: ¿Cómo se denominan las partes de las que está compuesto el intestino delgado?
+A. Colon, recto y ano.
+B. Ciego, colon y recto.
+C. Fundus, cuerpo y antro.
+D. Duodeno, yeyuno e íleon.
+Correct answer: D. Duodeno, yeyuno e íleon.
+
+Question 22: ¿Cuántos óvulos se obtienen de cada ovocito tras el proceso de ovogénesis?
+A. Cuatro óvulos haploides
+B. Dos óvulos diploides
+C. Un óvulo diploide.
+D. Un óvulo haploide
+Correct answer: D. Un óvulo haploide
+
+Question 23: Los estrógenos son unas hormonas liberadas por:
+A. Ovarios
+B. Testículos
+C. Glándulas tiroides
+D. Páncreas
+Correct answer: A. Ovarios
+
+Question 24: ¿Cuáles de los siguientes cambios se produce en una mujer durante el embarazo?
+A. Aumento de la frecuencia de la micción.
+B. Todas son correctas.
+C. Aumento de la curvatura lumbar.
+D. Náuseas, vómitos...
+Correct answer: B. Todas son correctas.
+
+Question 25: ¿Cuál de las siguientes afirmaciones es correcta?
+A. Los órganos son agrupaciones de diversos tejidos que aportan una unidad estructural.
+B. Todas son correctas.
+C. Los sistemas son un conjunto de órganos formados por el mismo tipo de tejido.
+D. Los aparatos son un grupo de órganos que pueden estar formados por diferentes tejidos.
+Correct answer: B. Todas son correctas.
+
+Question 26: ¿Cuál de las siguientes afirmaciones es cierta acerca de los huesos?
+A. El hueso esponjoso se localiza en la epífisis de los huesos largos.
+B. Todas son correctas.
+C. Los huesos poseen 2 partes: epífisis y diafisis.
+D. Hay 4 tipos de huesos: largos, cortos, planos e irregulares.
+Correct answer: B. Todas son correctas.
+
+Question 27: Las hormonas hidrosolubles...
+A. No actúan segundos mensajeros.
+B. Poseen receptores nucleares.
+C. Atraviesan la membrana celular.
+D. No atraviesan la membrana.
+Correct answer: D. No atraviesan la membrana.
+
+next_batch_questions_text = """
+Question 28: ¿Qué órgano de los sentidos es el encargado del equilibrio?
+A. La vista.
+B. El olfato.
+C. El oído.
+D. El tacto.
+Correct answer: C. El oído.
+
+Question 29: ¿Qué tipo de transporte de sustancias es la que necesita ATP como fuente de energía para que atraviese la membrana?
+A. Transporte activo
+B. Ultrafiltración
+C. Ósmosis
+D. Transporte pasivo
+Correct answer: A. Transporte activo
+
+Question 30: ¿Qué proteína es la responsable del transporte de oxígeno?
+A. Hormonas
+B. Neumocito
+C. Hierro
+D. Hemoglobina
+Correct answer: D. Hemoglobina
+
+Question 31: La hematuria es...
+A. Inflamación de las paredes de la vejiga por una infección bacteriana.
+B. Presencia de sangre en la orina.
+C. Presencia de proteínas en la sangre.
+D. Eliminación de un volumen mayor de orina.
+Correct answer: B. Presencia de sangre en la orina.
+
+Question 32: La neoplasia es...
+A. Alteración de la proliferación celular, producida por la multiplicación descoordinada de las mismas.
+B. Todas son correctas.
+C. Disminución o pérdida de la diferenciación de un tejido. Aumento del número de células poco diferenciadas que pertenecen a la misma línea celular (regeneración).
+D. Sustitución de un tipo de célula adulta por otra de origen distinto.
+Correct answer: A. Alteración de la proliferación celular, producida por la multiplicación descoordinada de las mismas.
+
+Question 33: ¿Dónde se produce el intercambio gaseoso entre el aire inspirado y los vasos sanguíneos?
+A. Pulmones
+B. Bronquiolos
+C. Bronquios
+D. Alvéolos
+Correct answer: D. Alvéolos
+
+Question 34: ¿Qué es la fase prodrómica?
+A. Manifestación clínica de tipo inespecífico de la enfermedad.
+B. Tránsito entre la enfermedad y la salud en la que se produce la desaparición de los síntomas.
+C. (Not visible in the image)
+D. (Not visible in the image)
+Correct answer: A. Manifestación clínica de tipo inespecífico de la enfermedad.
+
+Question 35: ¿Cuál es la hormona sintetizada por el hipotálamo y secretada por la hipófisis al torrente sanguíneo, responsable de las contracciones durante el parto?
+A. Estrógenos
+B. Oxitocina
+C. Progesterona
+D. FSH
+Correct answer: B. Oxitocina
+
+Question 36: De los siguientes enunciados, indica la opción incorrecta:
+A. La mitosis da lugar a 2 células hijas haploides, es decir, con la mitad del material genético
+B. La meiosis tiene lugar en las células germinales y dará lugar a los gametos
+C. La mitosis tiene lugar en las células somáticas y su función es de crecimiento celular y reparación
+D. La meiosis sufre un proceso reductivo donde se obtienen 4 células hijas haploides
+Correct answer: A. La mitosis da lugar a 2 células hijas haploides, es decir, con la mitad del material genético
+
+Question 37: El HDL...
+A. Todas las opciones son correctas
+B. Se encarga de evitar que otras lipoproteínas más perjudiciales se adhieran a las células o tejidos
+C. Es una lipoproteína de baja densidad o colesterol malo
+D. Tiende a adherirse en las paredes internas de los vasos sanguíneos formando las placas de ateroma
+Correct answer: B. Se encarga de evitar que otras lipoproteínas más perjudiciales se adhieran a las células o tejidos
+
+Question 38: ¿Cuál de los siguientes enunciados es incorrecto?
+A. El recorrido de la circulación menor es: ventrículo derecho-arteria pulmonar-vena pulmonar-aurícula izquierda
+B. El recorrido de la circulación mayor es: ventrículo izquierdo-arteria aorta-vena cava-aurícula derecha
+C. El objetivo de la circulación menor es la oxigenación de la sangre
+D. El recorrido de la circulación mayor es: ventrículo derecho-arteria aorta-vena cava-aurícula izquierdo
+Correct answer: D. El recorrido de la circulación mayor es: ventrículo derecho-arteria aorta-vena cava-aurícula izquierdo
+
+Question 39: Cuál de los siguientes enunciados hace referencia a un trombo:
+A. Siempre se forma en una arteria
+B. Un desprendimiento del coágulo
+C. Puede ser sólido, líquido o gaseoso
+D. Endurecimiento de la sangre pasando de líquida a sólida
+Correct answer: D. Endurecimiento de la sangre pasando de líquida a sólida
+
+Question 40: Existen diversas diferencias entre las células eucariotas y procariotas, indica cuál de las siguientes afirmaciones es incorrecta:
+A. Los hongos, vegetales y protistas son procariotas, mientras que las bacterias y arqueas son eucariotas
+B. Las células procariotas son más primitivas que las células eucariotas que son más evolucionadas
+C. Las células procariotas son más pequeñas que las células eucariotas
+D. Las células procariotas no tienen el material genético encapsulado en un núcleo, mientras que las células eucariotas sí
+Correct answer: A. Los hongos, vegetales y protistas son procariotas, mientras que las bacterias y arqueas son eucariotas
+
+Question 41: La plasmina es la forma activa de una proteína que...
+A. Forma el tapón de fibrina
+B. Produce un cambio de consistencia de la sangre de líquida a sólida
+C. Permite la agregación plaquetaria
+D. Degrada el coágulo de fibrina
+Correct answer: D. Degrada el coágulo de fibrina
+
+Question 42: Cuál de los siguientes enunciados es incorrecto respecto a la embolia o émbolo:
+A. Puede producirse por desprendimiento de un trombo
+B. Obstruye el conducto in situ
+C. Puede ser sólido, líquido o gaseoso
+D. Obstruye un conducto lejos de su lugar de origen
+Correct answer: B. Obstruye el conducto in situ
+
+Question 43: La necrosis...
+A. Todas las opciones son incorrectas
+B. Está programada genéticamente
+C. No causa inflamación
+D. No afecta a sus células vecinas
+Correct answer: A. Todas las opciones son incorrectas
+
+Question 44: Cuál de las siguientes afirmaciones sobre las leyes de la regeneración celular es falsa:
+A. A menor grado de diferenciación celular, mayor capacidad regenerativa
+B. La restitución de células y tejidos se realizan a partir de células de la misma clase, que se desdiferencian, migran, proliferan y se diferencian
+C. Mayor capacidad de regeneración cuando el organismo es más complejo
+D. La regeneración es la recuperación completa de una estructura y función de órganos o partes del cuerpo dañadas
+Correct answer: C. Mayor capacidad de regeneración cuando el organismo es más complejo
+
+Question 45: ¿En qué parte del órgano reproductor masculino se forman los espermatozoides?
+A. Tubos seminíferos
+B. Epidídimo
+C. Escroto
+D. Conducto eyaculador
+Correct answer: A. Tubos seminíferos
+
+Question 46: ¿Cuál es el órgano o glándula encargada de la producción de bilis?
+A. Páncreas
+B. Vesícula biliar
+C. Hígado
+D. Intestino delgado
+Correct answer: C. Hígado
+
+Question 47: ¿En qué parte del aparato respiratorio se encuentra la epiglotis?
+A. Faringe
+B. Nariz
+C. Tráquea
+D. Laringe
+Correct answer: D. Laringe
+
+Question 48: El glucagón es una hormona que interviene en el metabolismo de la glucosa y es...
+A. Transforma la glucosa en glucógeno por el hígado
+B. Segregada por las células beta del páncreas
+C. Hiperglucemiante
+D. Se libera cuando los niveles de glucosa en sangre son elevados
+Correct answer: C. Hiperglucemiante
+Question 49: ¿Qué parte del oído es el encargado del equilibrio?
+A. Martillo, Yunque y estribo
+B. Tímpano
+C. Caracol
+D. Canales semicirculares
+Correct answer: D. Canales semicirculares
+
+Question 50: ¿Qué tipo de transporte de sustancias es la que necesita ATP como fuente de energía para que atraviese la membrana?
+A. Ósmosis
+B. Ultrafiltración
+C. Transporte activo
+D. Transporte pasivo
+Correct answer: C. Transporte activo
+
+Question 51: Los centriolos tienen una función fundamental en el desarrollo de una célula ya que su función está relacionada con:
+A. Dotar de movimiento a la célula
+B. Relacionado con la división celular
+C. Degradación de sustancias tóxicas
+D. Fuente de energía de la célula
+Correct answer: B. Relacionado con la división celular
+
+Question 52: ¿Dónde se inicia el impulso nervioso transformado en eléctrico en el corazón?
+A. Haz de His
+B. Nodo auriculo-ventricular
+C. Fibras de Purkinje
+D. Nodo sinusal
+Correct answer: D. Nodo sinusal
+
+Question 53: ¿Cuál de las siguientes afirmaciones es correcta?
+A. El tejido adiposo blanco es el que más abunda en niños
+B. Los adipocitos del tejido adiposo blanco están formados por múltiples gotas lipídicas
+C. Los adipocitos de ambos tejidos adiposos son iguales
+D. Los adipocitos del tejido adiposo pardo están formados por múltiples gotas lipídicas
+Correct answer: B. Los adipocitos del tejido adiposo blanco están formados por múltiples gotas lipídicas
+Question 54: ¿Qué tipo de sangre poseen las personas que se consideran donantes universales?
+A. O-
+B. B-
+C. O+
+D. AB+
+Correct answer: A. O-
+
+Question 55: De los siguientes enunciados, indica la opción incorrecta:
+A. La meiosis tiene lugar en las células gaméticas y dará lugar a los gametos
+B. La mitosis tiene lugar en las células somáticas y su función es de crecimiento celular y reparación
+C. La mitosis da lugar a 2 células hijas haploides, es decir, con la mitad del material genético
+D. La meiosis sufre un proceso reductivo donde se obtienen 4 células hijas haploides
+Correct answer: C. La mitosis da lugar a 2 células hijas haploides, es decir, con la mitad del material genético
+
+Question 56: ¿Cómo se llama la válvula que separa la aurícula derecha del ventrículo derecho?
+A. Válvula aórtica
+B. Válvula pulmonar
+C. Válvula mitral
+D. Válvula tricúspide
+Correct answer: D. Válvula tricúspide
+
+Question 57: ¿Qué nivel orgánico es la unidad básica de la vida que lleva a cabo las funciones vitales de nutrición, relación y reproducción?
+A. Nivel celular
+B. Nivel orgánico
+C. Nivel químico
+D. Nivel de sistemas y órganos
+Correct answer: A. Nivel celular
+
+Question 58: La hipertrofia es...
+A. Sustitución de un tipo de célula adulta por otro de origen distinto
+B. El aumento anormal del tamaño de un órgano o tejido debido al aumento de tamaño de sus células
+C. Aumento del número de células poco diferenciadas que pertenecen a la misma línea celular
+D. El aumento anormal del tamaño de un órgano o tejido debido al aumento del número de sus células
+Correct answer: B. El aumento anormal del tamaño de un órgano o tejido debido al aumento de tamaño de sus células
+
+Question 59: Las células requieren energía para realizar las diferentes actividades celulares, ¿cuál es el orgánulo encargado de dicha función?
+A. Aparato de Golgi
+B. Retículo Endoplasmático Rugoso
+C. Mitocondrias
+D. Lisosomas
+Correct answer: C. Mitocondrias
