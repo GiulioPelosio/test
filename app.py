@@ -1,5 +1,57 @@
 import streamlit as st
 
+from datetime import datetime
+
+def generate_motivational_greetings():
+    greetings = {}
+    for hour in range(24):
+        if hour == 5:
+            greeting = "¡Arriba temprano, Laurita! Cada minuto de estudio te acerca a tu meta."
+        elif hour == 6:
+            greeting = "Un nuevo amanecer, una nueva oportunidad para superarte. ¡Vamos por ello!"
+        elif hour == 7:
+            greeting = "Recuerda, el éxito es la suma de pequeños esfuerzos repetidos día tras día."
+        elif hour == 8:
+            greeting = "Define tus objetivos de estudio para hoy. Planificar es el primer paso hacia el éxito Laurita."
+        elif hour == 9:
+            greeting = "Sumérgete en tus estudios, Laurita. Cada página te acerca a tu sueño."
+        elif hour == 10:
+            greeting = "Tómate un momento para revisar lo aprendido amor. Cada repaso fortalece tu memoria."
+        elif hour == 11:
+            greeting = "La perseverancia es tu mejor amiga en este viaje. Sigue adelante jefita."
+        elif hour == 12:
+            greeting = "Hora de una pausa activa. Recarga energías amor."
+        elif hour == 13:
+            greeting = "Renueva tu enfoque post-almuerzo. Cada sesión de estudio cuenta."
+        elif hour == 14:
+            greeting = "Enfrenta los temas difíciles ahora, Laurita. Es en los desafíos donde más crecemos."
+        elif hour == 15:
+            greeting = "¿Sientes cansancio? Cambia de tema de estudio para mantener la mente fresca."
+        elif hour == 16:
+            greeting = "Recuerda, el conocimiento es poder. Cada hora de estudio te hace más fuerte."
+        elif hour == 17:
+            greeting = "Revisa tus avances del día. Cada pequeño logro te acerca a tu objetivo."
+        elif hour == 18:
+            greeting = "El esfuerzo de hoy es la recompensa de mañana. Estás construyendo tu futuro, Laurita."
+        elif hour == 19:
+            greeting = "Desconecta un momento. Una mente descansada es más productiva."
+        elif hour == 20:
+            greeting = "Planifica tu sesión de estudio para mañana. Dormirás mejor con un plan claro."
+        elif hour == 21:
+            greeting = "Reflexiona sobre lo aprendido hoy. Cada día te conviertes en una mejor versión de ti misma."
+        elif hour == 22:
+            greeting = "Es hora de descansar, Amor. El sueño reparador es clave para el aprendizaje."
+        elif hour == 23:
+            greeting = "Cierra este día con gratitud por el esfuerzo realizado. Mañana es otro día para brillar."
+        elif hour == 0 or hour == 1:
+            greeting = "Que tus sueños te inspiren, Laurita. El descanso es parte del camino hacia el éxito."
+        elif hour == 2 or hour == 3:
+            greeting = "Incluso en la quietud de la noche, tu determinación sigue brillando. Descansa bien."
+        elif hour == 4:
+            greeting = "Pronto amanecerá, un nuevo día lleno de posibilidades y aprendizajes te espera."
+        greetings[hour] = greeting
+    return greetings
+
 
 
 def load_questions_safely(file_path):
@@ -22,7 +74,7 @@ def load_questions_safely(file_path):
                 
     return questions
 
-questions = load_questions_safely("data/renumbered_questions.txt")
+questions = load_questions_safely("data/updated_renumbered_questions.txt")
 
 
 
@@ -36,11 +88,19 @@ def calculate_score(questions, user_answers):
     return score
 
 def app_main(questions):
-    st.title("Hola mi Amorcito")
+    greetings = generate_motivational_greetings()
+
+# Get the current hour
+    current_hour = datetime.now().hour
+
+    greeting_message = greetings.get(current_hour, "Keep pushing forward, Laura. Every step is progress.")
+    st.title(greeting_message)
+
 
     # Distribute questions among tests
-    tests = {f"Test {i+1}": questions[i*10:(i+1)*10] for i in range(5)}
-    tests["Test 6"] = questions[50:]  # Last test with the remaining questions
+    #tests = {f"Test {i+1}": questions[i*10:(i+1)*10] for i in range(5)}
+    tests = {f"Test {i+1}": questions[i*10:(i+1)*10] for i in range(10)}
+    tests["Test 11"] = questions[100:]  # Last test with the remaining questions
 
     # Sidebar for test selection
     test_selection = st.sidebar.selectbox("Select a Test", list(tests.keys()))
