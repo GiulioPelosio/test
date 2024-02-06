@@ -63,7 +63,15 @@ def app_main(questions):
         # Submit button with feedback on correct answers
         if st.button('Submit Answers'):
             score = calculate_score(questions, user_answers)
-            st.write(f"Your score: {score}/{len(questions)}")
+            st.write(f"##### Your score: {score}/{len(questions)}")
+            
+            if score >= 7:
+                st.write('MMMUYYYY BIEEEEEEEEEENNNNNNNNN')
+                st.image("/root/personal/quiz/test/data/754ebf73-7eb3-45fd-8d4d-efc03255398e.png")
+            else:
+                st.write('#### No te preocupes mi amor, sigue practicando que lo vas a lograr')
+                st.image("/root/personal/quiz/test/data/ecd5a271-d352-4c84-b71c-7a49f292c954.png")
+                
             st.write("### Correct Answers and Your Responses")
             for i, response in user_responses.items():
                 st.write(f"Q{i}: {response['question']}")
@@ -72,8 +80,6 @@ def app_main(questions):
                     st.success(f"Your answer: {response['user_answer']} ✅")
                 else:
                     st.error(f"Your answer: {response['user_answer']} ❌")
-
-
 
 # Run the app main function if the script is run directly
 if __name__ == "__main__":
