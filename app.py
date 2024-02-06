@@ -36,7 +36,7 @@ def calculate_score(questions, user_answers):
     return score
 
 def app_main(questions):
-    st.title("Entrenando Laurita")
+    st.title("Hola mi Amorcito")
 
     # Distribute questions among tests
     tests = {f"Test {i+1}": questions[i*10:(i+1)*10] for i in range(5)}
