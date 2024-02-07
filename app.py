@@ -139,6 +139,7 @@ def app_main(questions):
             score = calculate_score(questions, user_answers)
             st.write(f"##### Your score: {score}/{len(questions)}")         
             if score >= 7:
+                st.balloons()
                 st.write('MMMUYYYY BIEEEEEEEEEENNNNNNNNN')
             
             else:
