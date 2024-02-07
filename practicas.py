@@ -1,5 +1,5 @@
 import streamlit as st
-
+import csv
 from datetime import datetime
 
 def generate_motivational_greetings():
@@ -52,6 +52,19 @@ def generate_motivational_greetings():
         greetings[hour] = greeting
     return greetings
 
+def log_test_attempt(test_name, user_responses):
+    with open("test_attempts.csv", mode="a", newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        for question_id, response in user_responses.items():
+            writer.writerow([
+                datetime.now().strftime("%Y-%m-%d %H:%M:%S"),  # Timestamp
+                test_name,  # Test name
+                question_id,  # Question ID
+                response['question'],  # Question text
+                response['user_answer'],  # User's answer
+                response['correct_answer'],  # Correct answer
+                "Correct" if response['user_answer'] == response['correct_answer'] else "Incorrect"  # Outcome
+            ])
 
 
 def load_questions_safely(file_path):
@@ -122,9 +135,9 @@ def app_main(questions):
 
         # Submit button with feedback on correct answers
         if st.button('Submit Answers'):
+            log_test_attempt(test_selection, user_responses)
             score = calculate_score(questions, user_answers)
-            st.write(f"##### Your score: {score}/{len(questions)}")
-            
+            st.write(f"##### Your score: {score}/{len(questions)}")         
             if score >= 7:
                 st.write('MMMUYYYY BIEEEEEEEEEENNNNNNNNN')
             
@@ -143,3 +156,6 @@ def app_main(questions):
 # Run the app main function if the script is run directly
 if __name__ == "__main__":
     app_main(questions)
+
+
+
